@@ -1,0 +1,8 @@
+Source:
+Kalivas, John H. (1997) Two Data Sets of Near Infrared Spectra Chemometrics and Intelligent Laboratory Systems, 37, 255--259.
+
+Spectra:
+Diffuse reflectance as log(1/R)
+
+Wavelengths:
+900:1700:2
