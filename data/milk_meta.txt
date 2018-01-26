@@ -1,0 +1,11 @@
+Source:
+Kristian Hovde Liland, Bjørn-Helge Mevik, Elling-Olav Rukke, Trygve Almøy, Tomas Isaksson,
+Quantitative whole spectrum analysis with MALDI-TOF MS,
+Part II: Determining the concentration of milk in mixtures,
+Chemometrics and Intelligent Laboratory Systems 99 (2009), pp. 39-48.
+
+Spectra:
+Baseline corrected and square root transformed
+
+m/z scale:
+Mass per charge, indicating molecular weight in Daltons
